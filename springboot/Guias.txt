@@ -1,0 +1,7 @@
+Instalações
+
+JDK 21
+MAVEN
+
+Links de referência
+https://youtu.be/5w-YCcOjPD0?si=4ziq0Gj7OVIl8GAL -- Configuração de login, permissão e autenticação baseada em sistema de TOKEN
